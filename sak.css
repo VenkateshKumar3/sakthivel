@@ -1,0 +1,29 @@
+body{
+	
+	background-image: url(https://static-news.moneycontrol.com/static-mcnews/2017/03/Steel-1-770x433.jpg);
+	
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+#one{
+	float: right;
+	color: #070f1c;
+
+}
+#r1 {
+  opacity:0.6;
+}
+#r2{
+	opacity: 0.6;
+}
+#r3{
+	opacity: 0.6;
+}
+
+
+.navbar navbar-expand-md bg-dark navbar-dark
+{
+	position: fixed;
+
+}

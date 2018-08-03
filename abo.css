@@ -1,0 +1,26 @@
+body{
+	background-image: url(im.jpg);	
+	
+}
+h1{
+	font-size: 40px;
+	color: #891123;
+	
+
+}
+img{
+	width: 170px
+}
+#sathish{
+	color: #010023;
+	
+	font-size: 30px;
+
+	}
+	b{
+		float:right;
+		color: #010023;
+	}
+#i{
+opacity:0.8;
+	}
